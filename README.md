@@ -78,3 +78,8 @@ Config = {
     }
 }
 ```
+
+<h2 align='center'>Future Updates:</a></h1>
+
+**1.** Add Discord Webhook Logging to the server side with a new configuration file (anti-dumping webhooks).
+**2.** Allow the script to toggle duties for multiple jobs than just Police.
