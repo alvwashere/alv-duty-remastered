@@ -88,3 +88,7 @@ Config = {
 **1.** Add Discord Webhook Logging to the server side with a new configuration file (anti-dumping webhooks).
 <br>
 **2.** Allow the script to toggle duties for multiple jobs than just Police.
+
+<h2 align='center'>License</h1>
+
+<p1>Please read the license attached to the `master` branch.</p1>
