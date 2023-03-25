@@ -8,9 +8,13 @@
 ### ❗ Installation
 
 **1.** Install [Legion Discord API](https://legiondev.tebex.io/category/free-resources)
+<br>
 **2.** Clone this GitHub Repository
+<br>
 **3.** Add this resource to your `[esx]` directory.
+<br>
 **4.** Ensure the resource will start in your `server.cfg`
+<br>
 **5.** Configure the resource (Guide is below).
 
 ### ❗❗ Configuration
@@ -82,4 +86,5 @@ Config = {
 <h2 align='center'>Future Updates:</a></h1>
 
 **1.** Add Discord Webhook Logging to the server side with a new configuration file (anti-dumping webhooks).
+<br>
 **2.** Allow the script to toggle duties for multiple jobs than just Police.
